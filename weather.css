@@ -1,0 +1,10 @@
+div{
+    height: 300px;
+    width: 400px;
+    opacity: .8;
+   
+    background-image: url("https://images.pexels.com/photos/9827503/pexels-photo-9827503.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+  }
+ div>h3{
+   margin-left: 30px;
+ }
